@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: aquamarine;
+}
+.account {
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.deposit {
+    color:  blue;
+    font-size: 28px;
+}
+.labour {
+    font-size: 20px;
+}
+.total {
+    font-size: 20px;
+    color: blue;
+}
+.remaining {
+    font-size: 25px;
+    color: gray;
+}
