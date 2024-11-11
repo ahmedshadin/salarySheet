@@ -51,6 +51,7 @@
                 $salary->addSalary("nijam", 20000);
                 $salary->addSalary("nijam", 10000);
                 $salary->addSalary("shopna", 2000);
+                $salary->addSalary("masud", 5000);
                 $salary->createReport();
             
             ?>
